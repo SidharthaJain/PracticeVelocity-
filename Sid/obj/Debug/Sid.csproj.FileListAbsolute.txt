@@ -12,3 +12,17 @@ c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\Sid.Prop
 c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\Sid.csproj.GenerateResource.Cache
 c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\Sid.exe
 c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\Sid.pdb
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\bin\Debug\Sid.exe.config
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\obj\Debug\Sid.exe
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\obj\Debug\Sid.pdb
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\bin\Debug\Sid.exe
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\bin\Debug\Sid.pdb
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\obj\Debug\Sid.csprojResolveAssemblyReference.cache
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\obj\Debug\MainWindow.g.cs
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\obj\Debug\App.g.cs
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\obj\Debug\Sid_MarkupCompile.cache
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\obj\Debug\Sid_MarkupCompile.lref
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\obj\Debug\MainWindow.baml
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\obj\Debug\Sid.g.resources
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\obj\Debug\Sid.Properties.Resources.resources
+C:\Users\Atlassian\Downloads\Sid\Sid\PracticeVelocity-\Sid\obj\Debug\Sid.csproj.GenerateResource.Cache

@@ -23,10 +23,13 @@ namespace Sid
         public MainWindow()
         {
             InitializeComponent();
+            listBox.Visibility = Visibility.Hidden;
+
         }
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
+            listBox.Visibility=Visibility.Visible;
             listBox.Items.Clear();
             for(int i=1;i<=100;i++)
             {
@@ -54,6 +57,8 @@ namespace Sid
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
+
+            listBox.Visibility = Visibility.Visible;
             listBox.Items.Clear();
             for (int i = 1; i <= 100; i++)
             {
