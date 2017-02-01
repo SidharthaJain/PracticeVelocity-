@@ -1,0 +1,14 @@
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\bin\Debug\Sid.exe.config
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\bin\Debug\Sid.exe
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\bin\Debug\Sid.pdb
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\Sid.csprojResolveAssemblyReference.cache
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\MainWindow.g.cs
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\App.g.cs
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\Sid_MarkupCompile.cache
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\Sid_MarkupCompile.lref
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\MainWindow.baml
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\Sid.g.resources
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\Sid.Properties.Resources.resources
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\Sid.csproj.GenerateResource.Cache
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\Sid.exe
+c:\users\sravan\documents\visual studio 2015\Projects\Sid\Sid\obj\Debug\Sid.pdb
